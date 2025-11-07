@@ -13,3 +13,15 @@
 - `reporte.tex` Report en formato latex para futuros cambios
 
 ## TC3006C Inteligencia artificial avanzada para la ciencia de datos II
+
+### Todos los archivos seran corridos en una herramienta externa
+
+#### Entrenamiento: se uso kaggle
+
+#### Utilizacion: Google colab
+
+- `training.ipynb` Este es el archivo en el que se entrenaran los modelos. Hay dos modelos en este archivo, un modelo baseline utilizando una CNN de 5 capas, y un EfficientNet-B0
+
+- `model_usage.ipynb` En este archivo se podra utilizar el modelo, utilizando una imagen de un hongo y el modelo predicira la especia
+
+- `mushroom1` Este es el dataset que se utilizo, el link a la informacion extra se encuentra [aqui](https://www.kaggle.com/datasets/zlatan599/mushroom1)
