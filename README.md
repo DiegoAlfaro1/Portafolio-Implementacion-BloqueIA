@@ -25,3 +25,10 @@
 - `model_usage.ipynb` En este archivo se podra utilizar el modelo, utilizando una imagen de un hongo y el modelo predicira la especia
 
 - `mushroom1` Este es el dataset que se utilizo, el link a la informacion extra se encuentra [aqui](https://www.kaggle.com/datasets/zlatan599/mushroom1)
+
+## Evidencias
+
+Se agregaron los archivos para las evidencias de la materia
+- TC3007B_NLP_HW1_embeddings
+- TC3007B_GPT2_complete
+- W5_StatsAI2_DiegoAlfaro
